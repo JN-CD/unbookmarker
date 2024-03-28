@@ -12,7 +12,8 @@ Unbookmarker operates directly within your browser. It uses JavaScript to intera
 
 ## Getting Started
 
-1. **Download Unbookmarker:** Get the extension for your Chrome browser via the webstore link or by downloading this code and running it in chrome://extensions/
+1. **Download Unbookmarker:** Get the extension for your Chrome browser via the [webstore link](https://chromewebstore.google.com/detail/unbookmarker/ehcmhleiaakhhbdppenikmhilceiblkh)
+ or by downloading this code and running it in chrome://extensions/
 2. **Discover Magic:** Navigate to your Twitter bookmarks and find the new button introduced by Unbookmarker.
 3. **Enjoy:** Start rediscovering valuable content hidden in your bookmarks.
 
